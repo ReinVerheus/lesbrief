@@ -5,7 +5,7 @@
 
   body {
     font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-    background: grey url('../images/blokje.jpg') repeat;
+    background: #265B6A;
   }
 
   header {
@@ -23,19 +23,20 @@
   }
 
   ul {
-    background: #080808;
+    background: #022A35;
     padding: 10px;
   }
   
   ul li {
-    background: #787878;
+    background: #6B949F;
     padding: 5px;
-    border: solid 2px white;
+    border: solid 2px  black;
     display: inline-block;
   }
   
   ul li a {
-    color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
   }
   
@@ -54,7 +55,7 @@
     border-radius: 0px 20px 20px 20px;
     margin: 5px 10px 5px 10px;
     padding: 10px;
-    background: white;
+    background: #6B949F;
   }
 
   article h2 {
@@ -72,7 +73,7 @@
   }
 
   footer {
-    background: #F0F0F0;
+    background: #6B949F;
   }
   
   footer h3 {
