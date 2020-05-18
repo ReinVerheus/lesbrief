@@ -1,0 +1,100 @@
+ * #groen {
+    background-color: green;
+    position: absolute;
+    top: 230px;
+    right: 230px;
+    z-index: 5;
+    width: 250px;
+    height: 250px;
+  }
+  
+  #rood {
+    background-color: red;
+    position: absolute;
+    top: 60px;
+    right: 60px;
+    z-index: 4;
+    width: 250px;
+    height: 250px;
+  }
+  
+  #blauw {
+    background-color: blue;
+    position: absolute;
+    top: 300px;
+    right: 300px;
+    z-index: 3;
+    width: 250px;
+    height: 250px;
+  }
+
+  #geel {
+    background-color: yellow;
+    position: absolute;
+    top: 60px;
+    right: 60px;
+    z-index: 2;
+    width: 320px;
+    height: 320px;
+  }
+
+  #black {
+    background-color: black;
+    position: absolute;
+    top: 60px;
+    right: 60px;
+    z-index: 1;
+    width: 500px;
+    height: 500px;
+  }
+
+  header {
+      float: left;
+  }
+
+  nav {
+      float: left;
+      clear: left;
+  }
+
+  section {
+      float: left;
+      position: relative;
+      left: 10px;
+     }
+
+  footer {
+      float: left;
+      clear: left;
+  }
+
+  h2 {
+    display: inline;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+  }
+
+  h2:hover {
+    color: red;
+  }
+
+  p:first-of-type {
+    color: purple;
+    position: absolute;
+    left: 300px;
+    top: 350px;
+  }
+
+  p {
+    position: absolute;
+    left: 300px;
+    top: 400px;
+  }
+
+  h1 {
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    left: 300px;
+    top: 500px;
+  }
